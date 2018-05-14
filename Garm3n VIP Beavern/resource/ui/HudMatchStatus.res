@@ -289,12 +289,13 @@
 		
 		if_match
 		{
+			"ypos"				"-8"	
 			"zpos"				"5"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Garm3nFontMediumShadow"
 			"fgcolor"		"Garm3nHUDWhite"
@@ -305,13 +306,12 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"font"			"Garm3nFontTiny"
-				"ypos"			"2"
+				"font"		"Garm3nFontTiny"
 			}
 		}
 	}

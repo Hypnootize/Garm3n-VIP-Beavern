@@ -1773,7 +1773,7 @@
 			"wide"			"162"
 			"wide_minmode"		"123"
 			"tall"			"12"
-			"visible"		"0"
+			"visible"		"1"
 			"enabled"		"1"
 		}
 		
