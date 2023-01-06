@@ -1,12 +1,7 @@
 # Garm3n-VIP-Beavern
-Screenshots: https://imgur.com/a/tK9N1
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/tK9N1)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 255
-
-hud_combattext_green 255
-
-hud_combattext_blue 255
+![](https://i.imgur.com/mXnR9SQ.jpg)
